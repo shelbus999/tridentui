@@ -17,7 +17,7 @@ Since zzzz is a skid using ai to make this I decided to make this with no ai hop
 </p>
 
 <h1 align="center">TridentUI Builder</h1>
-<h4 align="center">Developed by Shelbus</h4>
+<h4 align="center">Developed by Arson</h4>
 <h3 align="center">Change The Way You Design Roblox UI.</h3>
 
 <p align="center">
