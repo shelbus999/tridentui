@@ -3,14 +3,14 @@ Since zzzz is a skid I decided to release my own ui under trident this one is mu
 
 <p align="center">
   <br><br>
-  <a href="https://github.com/Shelbus/TridentUI-Builder/stargazers">
-    <img src="https://img.shields.io/github/stars/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <a href="https://github.com/shelbus999/tridentui/stargazers">
+    <img src="https://img.shields.io/github/stars/shelbus999/tridentui?style=for-the-badge&logo=github&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/Shelbus/TridentUI-Builder/releases">
-    <img src="https://img.shields.io/github/v/release/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Release">
+  <a href="https://github.com/shelbus999/tridentui/releases">
+    <img src="https://img.shields.io/github/v/release/shelbus999/tridentui?style=for-the-badge&logo=github&color=yellow" alt="Release">
   </a>
-  <a href="https://github.com/Shelbus/TridentUI-Builder/commits/main">
-    <img src="https://img.shields.io/github/last-commit/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Last Commit">
+  <a href="https://github.com/shelbus999/tridentui/commits/main">
+    <img src="https://img.shields.io/github/last-commit/shelbus999/tridentui?style=for-the-badge&logo=github&color=yellow" alt="Last Commit">
   </a>
   <br>
   <img src="https://img.shields.io/badge/TridentUI-v1.0.0-yellow?style=for-the-badge&logo=react" alt="v1.0.0">
