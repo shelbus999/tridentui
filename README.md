@@ -1,5 +1,5 @@
 # tridentui better version
-Since zzzz is a skid I decided to release my own ui under trident this one is much better will be open source soon.
+Since zzzz is a skid using ai to make this I decided to make this with no ai hope you enjoy https://tridentui.netlify.app/
 
 <p align="center">
   <br><br>
