@@ -3,25 +3,25 @@ Since zzzz is a skid I decided to release my own ui under trident this one is mu
 
 <p align="center">
   <br><br>
-  <a href="https://github.com/zzzzhub/Trident/stargazers">
-    <img src="https://img.shields.io/github/stars/zzzzhub/Trident?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <a href="https://github.com/Shelbus/TridentUI-Builder/stargazers">
+    <img src="https://img.shields.io/github/stars/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Stars">
   </a>
-  <a href="https://github.com/zzzzhub/Trident/releases">
-    <img src="https://img.shields.io/github/v/release/zzzzhub/Trident?style=for-the-badge&logo=github&color=yellow" alt="Release">
+  <a href="https://github.com/Shelbus/TridentUI-Builder/releases">
+    <img src="https://img.shields.io/github/v/release/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Release">
   </a>
-  <a href="https://github.com/zzzzhub/Trident/commits/main">
-    <img src="https://img.shields.io/github/last-commit/zzzzhub/Trident?style=for-the-badge&logo=github&color=yellow" alt="Last Commit">
+  <a href="https://github.com/Shelbus/TridentUI-Builder/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Shelbus/TridentUI-Builder?style=for-the-badge&logo=github&color=yellow" alt="Last Commit">
   </a>
   <br>
   <img src="https://img.shields.io/badge/TridentUI-v1.0.0-yellow?style=for-the-badge&logo=react" alt="v1.0.0">
 </p>
 
 <h1 align="center">TridentUI Builder</h1>
-<h4 align="center">Developed by Arson</h4>
+<h4 align="center">Developed by Shelbus</h4>
 <h3 align="center">Change The Way You Design Roblox UI.</h3>
 
 <p align="center">
-  <a href="https://tridentui.netlify.app/">Live Demo</a> •
+  <a href="https://tridentui-builder.netlify.app/">Live Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#tech-stack">Tech Stack</a>
 </p>
@@ -36,7 +36,9 @@ Since zzzz is a skid I decided to release my own ui under trident this one is mu
 *   **Instant Luau Export**: Generate production-ready `.lua` code or download it directly to import into your game.
 *   **Studio Accuracy**: Supports complex layouts (UIListLayout, UIGridLayout) and constraints.
 
+
 ---
+
 
 ### How to use
 
