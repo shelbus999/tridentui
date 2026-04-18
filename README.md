@@ -36,13 +36,6 @@ Since zzzz is a skid I decided to release my own ui under trident this one is mu
 *   **Instant Luau Export**: Generate production-ready `.lua` code or download it directly to import into your game.
 *   **Studio Accuracy**: Supports complex layouts (UIListLayout, UIGridLayout) and constraints.
 
-## 🛠 Tech Stack
-
-*   **Frontend**: React + TypeScript + Tailwind CSS
-*   **Icons**: Lucide React
-*   **Animations**: Motion
-*   **State Management**: Optimized React hooks with local history support (Undo/Redo)
-
 ---
 
 ### How to use
