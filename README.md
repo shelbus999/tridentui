@@ -28,7 +28,7 @@ Since zzzz is a skid using ai to make this I decided to make this with no ai hop
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 *   **Visual Drag-and-Drop**: Build layouts intuitively with a real-time canvas preview.
 *   **Roblox Explorer**: Hierarchical object management with nesting and parenting logic identical to Roblox.
