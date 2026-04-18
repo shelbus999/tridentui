@@ -21,7 +21,7 @@ Since zzzz is a skid I decided to release my own ui under trident this one is mu
 <h3 align="center">Change The Way You Design Roblox UI.</h3>
 
 <p align="center">
-  <a href="https://tridentui-builder.netlify.app/">Live Demo</a> •
+  <a href="https://tridentui.netlify.app/">Live Demo</a> •
   <a href="#key-features">Key Features</a> •
   <a href="#tech-stack">Tech Stack</a>
 </p>
